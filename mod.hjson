@@ -6,3 +6,4 @@ description: "Mindustry mod that adds tools for automatically filling resource p
 version: "1.5.1-157.3"
 minGameVersion: "157"
 java: true
+hidden: true
